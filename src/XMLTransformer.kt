@@ -20,7 +20,7 @@ object XMLTransformer {
 }
 
 fun main() {
-    val raw = File("src/input.xml")
+    val raw = File("src/resources/input.xml")
     val validXmlLines = raw.readLines().asSequence().map {
         it.replace("<br>", "<br/>")
             .replace("&nbsp;", "")
@@ -28,17 +28,17 @@ fun main() {
     }
 
     // convert input.xml to valid XML
-    val tmpFile = File("src/tmp.xml")
+    val tmpFile = File("src/resources/tmp.xml")
     tmpFile.printWriter().use { out ->
         validXmlLines.forEach { out.println(it) }
     }
 
     // output file for angular app
-    val outFile = File("src/transactions.ts")
+    val outFile = File("src/resources/transactions.ts")
     outFile.printWriter().use {
         it.println(
             XMLTransformer.transform(
-                File("src/transform.xslt"),
+                File("src/resources/transform.xslt"),
                 tmpFile
             ) // after conversion remove superfluous whitespaces and a XML tag => we want nice typescript file
                 .replace("<?xml version=\"1.0\" encoding=\"UTF-8\"?>", "")
