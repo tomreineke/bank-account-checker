@@ -1,6 +1,6 @@
 # General
 
-This program uses an HTML input from the Commerzbank financial transaction overview to create a typescript file that contains all the transactions in Json format. This file can then be processed by the related project ..., which will group the transactions by its source, so that the user sees how much money in total he received from / sent to a client.
+This program uses an HTML input from the Commerzbank financial transaction overview to create a typescript file that contains all the transactions in Json format. This file can then be processed by the related project [account-app](https://github.com/tomreineke/account-app), which will group the transactions by its source, so that the user sees how much money in total he received from / sent to a client.
 
 # Usage
 
