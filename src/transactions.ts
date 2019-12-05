@@ -1,0 +1,1 @@
+ export const transactions = [ { source: 'client A', amount: '+ 13.363,00 EUR' }, { source: 'client B', amount: '- 104,66 EUR' }, { source: 'client A', amount: '+ 700,00 EUR' }, { source: 'client C', amount: '- 9,90 EUR' }, { source: 'client B', amount: '- 2.782,54 EUR' }, ]; 

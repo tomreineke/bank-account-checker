@@ -1,0 +1,271 @@
+<table class="Dvnewpfm-table-body expander_table transactions dhb-current-body" id="id2e">
+
+    <tbody class="t-body dateGroup" id="id94" data-read-state="false"><tr class="dateCol expander-handle tb-p-02-01"><th class="expander_border_padding"></th><th colspan="2" class="dateGroupCol2" id="dateBalanceBookedTransfer">05.12.2019</th><th class="expander_handle_column_3" style="width:0%"></th><th class="expander_handle_column_4 dateGroupCol4"></th><th class="meniga expander_handle_column_5 dateGroupCol5"></th><th class="tb-p-01-03 p-s-04 nowrap expander_handle_column_6 p-s-04 dateGroupCol6"></th><th class="expander_handle_column_7" style="width:0%"></th><th class="expander_border_padding dateGroupCol8"></th></tr>
+        <tr class="expander-handle tb-p-02-01">
+
+            <th class="expander_border_padding"><input id="hiddenDateTO" type="hidden" value="05.12.2019" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:94:date"><input id="hiddenBalanceTO" type="hidden" value="" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:94:balance"></th>
+
+            <th class="th-click expander_handle_column_1 tb-p-02-01 show-tooltip" style="word-wrap: break-word;" id="toTransactionRows">client A</th>
+            <th class="expander_handle_column_2"></th>
+            <th class="expander_handle_column_3"></th>
+            <th class="expander_handle_column_4">
+
+            </th>
+            <th class="non-pfm-type expander_handle_column_5">Gutschrift</th>
+
+            <th class="tb-p-01-03 p-s-04 nowrap expander_handle_column_6 p-s-04">+ 13.363,00 EUR</th>
+            <th class="expander_handle_column_7"></th>
+            <th class="expander_border_padding"></th>
+        </tr>
+        <tr class="expander-details tb-p-02-01">
+            <td colspan="9">
+                <table class="at-a-01 tb-h-02 transactions">
+                    <tbody><tr>
+                        <td class="expander_border_padding"></td>
+                        <td colspan="2" class="expander_details_column_1 dateGroupCol2">
+                            <div class="hide_overflow">
+                            </div>
+                        </td>
+
+                        <td class="descColumn expander_details_column_3" style="width: 0%"></td>
+                        <td class="expander_details_column_4 dateGroupCol4"></td>
+                        <td class="onExpand accntBaseWidget expander_details_column_5 dateGroupCol5">
+                            <div class="loading-indicator">
+                                <input type="hidden" data-meniga="tId" value="908638936" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:94:tId"> <input type="hidden" data-meniga="catId" value="1" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:94:catId">
+                                <!--  <div class="meniga">
+										<div class="content">
+											<div data-meniga="expenseOverTime"></div>
+											<div class="clear"></div>
+										</div>
+									</div>-->
+                                <div id="link-01" class="link-01">
+
+                                </div>
+                            </div>
+                        </td>
+                        <td class="expander_details_column_6" style="width: 0%"></td>
+                        <td class="expander_details_column_7 dateGroupCol6"><a href="./transactions?1-IResourceListener-umsatzePanel-transactionsPanel-transactionsTablePanel-listContainer-transactions-94-transactionPrintPdf&amp;pk" class="btn b-fb-01  show-tooltip ico-pdf pdfButton pfmPdfButton" title="PDF herunterladen">pdf</a></td>
+                        <td class="expander_details_column_8" style="width: 0%"></td>
+                        <td class="expander_border_padding dateGroupCol8"></td>
+
+                    </tr>
+                    </tbody></table>
+            </td>
+        </tr>
+    </tbody><span class="pfmHeaderLeftPadding">&nbsp;</span><span class="pfmHeaderRightPadding">&nbsp;</span><tbody class="t-body dateGroup" id="id95" data-read-state="false"><tr class="dateCol expander-handle tb-p-02-01"><th class="expander_border_padding"></th><th colspan="2" class="dateGroupCol2" id="dateBalanceBookedTransfer">04.12.2019</th><th class="expander_handle_column_3" style="width:0%"></th><th class="expander_handle_column_4 dateGroupCol4"></th><th class="meniga expander_handle_column_5 dateGroupCol5"></th><th class="tb-p-01-03 p-s-04 nowrap expander_handle_column_6 p-s-04 dateGroupCol6"></th><th class="expander_handle_column_7" style="width:0%"></th><th class="expander_border_padding dateGroupCol8"></th></tr>
+    <tr class="expander-handle tb-p-02-01">
+
+        <th class="expander_border_padding"><input id="hiddenDateTO" type="hidden" value="04.12.2019" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:95:date"><input id="hiddenBalanceTO" type="hidden" value="" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:95:balance"></th>
+
+        <th class="th-click expander_handle_column_1 tb-p-02-01 show-tooltip" style="word-wrap: break-word;" id="toTransactionRows">client B</th>
+        <th class="expander_handle_column_2"></th>
+        <th class="expander_handle_column_3"></th>
+        <th class="expander_handle_column_4">
+
+        </th>
+        <th class="non-pfm-type expander_handle_column_5">Überweisung</th>
+
+        <th class="tb-p-01-03 p-s-03 nowrap expander_handle_column_6">- 104,66 EUR</th>
+        <th class="expander_handle_column_7"></th>
+        <th class="expander_border_padding"></th>
+    </tr>
+    <tr class="expander-details tb-p-02-01">
+        <td colspan="9">
+            <table class="at-a-01 tb-h-02 transactions">
+                <tbody><tr>
+                    <td class="expander_border_padding"></td>
+                    <td colspan="2" class="expander_details_column_1 dateGroupCol2">
+                        <div class="hide_overflow">
+
+                        </div>
+                    </td>
+
+                    <td class="descColumn expander_details_column_3" style="width: 0%"></td>
+                    <td class="expander_details_column_4 dateGroupCol4"></td>
+                    <td class="onExpand accntBaseWidget expander_details_column_5 dateGroupCol5">
+                        <div class="loading-indicator">
+                            <input type="hidden" data-meniga="tId" value="908006393" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:95:tId"> <input type="hidden" data-meniga="catId" value="112" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:95:catId">
+                            <!--  <div class="meniga">
+										<div class="content">
+											<div data-meniga="expenseOverTime"></div>
+											<div class="clear"></div>
+										</div>
+									</div>-->
+                            <div id="link-01" class="link-01">
+
+                            </div>
+                        </div>
+                    </td>
+                    <td class="expander_details_column_6" style="width: 0%"></td>
+                    <td class="expander_details_column_7 dateGroupCol6"><a href="./transactions?1-IResourceListener-umsatzePanel-transactionsPanel-transactionsTablePanel-listContainer-transactions-95-transactionPrintPdf&amp;pk" class="btn b-fb-01  show-tooltip ico-pdf pdfButton pfmPdfButton" title="PDF herunterladen">pdf</a></td>
+                    <td class="expander_details_column_8" style="width: 0%"></td>
+                    <td class="expander_border_padding dateGroupCol8"></td>
+
+                </tr>
+                </tbody></table>
+        </td>
+    </tr>
+</tbody><span class="pfmHeaderLeftPadding">&nbsp;</span><span class="pfmHeaderRightPadding">&nbsp;</span><tbody class="t-body dateGroup" id="id96" data-read-state="false"><tr class="dateCol expander-handle tb-p-02-01"><th class="expander_border_padding"></th><th colspan="2" class="dateGroupCol2" id="dateBalanceBookedTransfer">02.12.2019</th><th class="expander_handle_column_3" style="width:0%"></th><th class="expander_handle_column_4 dateGroupCol4"></th><th class="meniga expander_handle_column_5 dateGroupCol5"></th><th class="tb-p-01-03 p-s-04 nowrap expander_handle_column_6 p-s-04 dateGroupCol6"></th><th class="expander_handle_column_7" style="width:0%"></th><th class="expander_border_padding dateGroupCol8"></th></tr>
+    <tr class="expander-handle tb-p-02-01">
+
+        <th class="expander_border_padding"><input id="hiddenDateTO" type="hidden" value="02.12.2019" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:96:date"><input id="hiddenBalanceTO" type="hidden" value="" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:96:balance"></th>
+
+        <th class="th-click expander_handle_column_1 tb-p-02-01 show-tooltip" style="word-wrap: break-word;" id="toTransactionRows">client A</th>
+        <th class="expander_handle_column_2"></th>
+        <th class="expander_handle_column_3"></th>
+        <th class="expander_handle_column_4">
+
+        </th>
+        <th class="non-pfm-type expander_handle_column_5">Gutschrift</th>
+
+        <th class="tb-p-01-03 p-s-04 nowrap expander_handle_column_6 p-s-04">+ 700,00 EUR</th>
+        <th class="expander_handle_column_7"></th>
+        <th class="expander_border_padding"></th>
+    </tr>
+    <tr class="expander-details tb-p-02-01">
+        <td colspan="9">
+            <table class="at-a-01 tb-h-02 transactions">
+                <tbody><tr>
+                    <td class="expander_border_padding"></td>
+                    <td colspan="2" class="expander_details_column_1 dateGroupCol2">
+                        <div class="hide_overflow">
+                        </div>
+                    </td>
+
+                    <td class="descColumn expander_details_column_3" style="width: 0%"></td>
+                    <td class="expander_details_column_4 dateGroupCol4"></td>
+                    <td class="onExpand accntBaseWidget expander_details_column_5 dateGroupCol5">
+                        <div class="loading-indicator">
+                            <input type="hidden" data-meniga="tId" value="905524304" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:96:tId"> <input type="hidden" data-meniga="catId" value="1" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:96:catId">
+                            <!--  <div class="meniga">
+										<div class="content">
+											<div data-meniga="expenseOverTime"></div>
+											<div class="clear"></div>
+										</div>
+									</div>-->
+                            <div id="link-01" class="link-01">
+
+                            </div>
+                        </div>
+                    </td>
+                    <td class="expander_details_column_6" style="width: 0%"></td>
+                    <td class="expander_details_column_7 dateGroupCol6"><a href="./transactions?1-IResourceListener-umsatzePanel-transactionsPanel-transactionsTablePanel-listContainer-transactions-96-transactionPrintPdf&amp;pk" class="btn b-fb-01  show-tooltip ico-pdf pdfButton pfmPdfButton" title="PDF herunterladen">pdf</a></td>
+                    <td class="expander_details_column_8" style="width: 0%"></td>
+                    <td class="expander_border_padding dateGroupCol8"></td>
+
+                </tr>
+                </tbody></table>
+        </td>
+    </tr>
+</tbody><tbody class="t-body dateGroup" id="id97" data-read-state="false">
+    <tr class="expander-handle tb-p-02-01">
+
+        <th class="expander_border_padding"><input id="hiddenDateTO" type="hidden" value="02.12.2019" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:97:date"><input id="hiddenBalanceTO" type="hidden" value="" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:97:balance"></th>
+
+        <th class="th-click expander_handle_column_1 tb-p-02-01 show-tooltip" style="word-wrap: break-word;" id="toTransactionRows">client C</th>
+        <th class="expander_handle_column_2"></th>
+        <th class="expander_handle_column_3"></th>
+        <th class="expander_handle_column_4">
+
+        </th>
+        <th class="non-pfm-type expander_handle_column_5">Dauerauftrag</th>
+
+        <th class="tb-p-01-03 p-s-03 nowrap expander_handle_column_6">- 9,90 EUR</th>
+        <th class="expander_handle_column_7"></th>
+        <th class="expander_border_padding"></th>
+    </tr>
+    <tr class="expander-details tb-p-02-01">
+        <td colspan="9">
+            <table class="at-a-01 tb-h-02 transactions">
+                <tbody><tr>
+                    <td class="expander_border_padding"></td>
+                    <td colspan="2" class="expander_details_column_1 dateGroupCol2">
+                        <div class="hide_overflow">
+                        </div>
+                    </td>
+
+                    <td class="descColumn expander_details_column_3" style="width: 0%"></td>
+                    <td class="expander_details_column_4 dateGroupCol4"></td>
+                    <td class="onExpand accntBaseWidget expander_details_column_5 dateGroupCol5">
+                        <div class="loading-indicator">
+                            <input type="hidden" data-meniga="tId" value="905524307" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:97:tId"> <input type="hidden" data-meniga="catId" value="112" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:97:catId">
+                            <!--  <div class="meniga">
+										<div class="content">
+											<div data-meniga="expenseOverTime"></div>
+											<div class="clear"></div>
+										</div>
+									</div>-->
+                            <div id="link-01" class="link-01">
+
+                            </div>
+                        </div>
+                    </td>
+                    <td class="expander_details_column_6" style="width: 0%"></td>
+                    <td class="expander_details_column_7 dateGroupCol6"><a href="./transactions?1-IResourceListener-umsatzePanel-transactionsPanel-transactionsTablePanel-listContainer-transactions-97-transactionPrintPdf&amp;pk" class="btn b-fb-01  show-tooltip ico-pdf pdfButton pfmPdfButton" title="PDF herunterladen">pdf</a></td>
+                    <td class="expander_details_column_8" style="width: 0%"></td>
+                    <td class="expander_border_padding dateGroupCol8"></td>
+
+                </tr>
+                </tbody></table>
+        </td>
+    </tr>
+</tbody><tbody class="t-body dateGroup" id="id98" data-read-state="false">
+    <tr class="expander-handle tb-p-02-01">
+
+        <th class="expander_border_padding"><input id="hiddenDateTO" type="hidden" value="02.12.2019" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:98:date"><input id="hiddenBalanceTO" type="hidden" value="" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:98:balance"></th>
+
+        <th class="th-click expander_handle_column_1 tb-p-02-01 show-tooltip" style="word-wrap: break-word;" id="toTransactionRows">client B</th>
+        <th class="expander_handle_column_2"></th>
+        <th class="expander_handle_column_3"></th>
+        <th class="expander_handle_column_4">
+
+        </th>
+        <th class="non-pfm-type expander_handle_column_5">Dauerauftrag</th>
+
+        <th class="tb-p-01-03 p-s-03 nowrap expander_handle_column_6">- 2.782,54 EUR</th>
+        <th class="expander_handle_column_7"></th>
+        <th class="expander_border_padding"></th>
+    </tr>
+    <tr class="expander-details tb-p-02-01">
+        <td colspan="9">
+            <table class="at-a-01 tb-h-02 transactions">
+                <tbody><tr>
+                    <td class="expander_border_padding"></td>
+                    <td colspan="2" class="expander_details_column_1 dateGroupCol2">
+                        <div class="hide_overflow">
+                            <p class="p-03">
+                            </p>
+                            <p class="p-03">
+                                Wertstellung
+
+                                02.12.2019
+                            </p>
+                        </div>
+                    </td>
+
+                    <td class="descColumn expander_details_column_3" style="width: 0%"></td>
+                    <td class="expander_details_column_4 dateGroupCol4"></td>
+                    <td class="onExpand accntBaseWidget expander_details_column_5 dateGroupCol5">
+                        <div class="loading-indicator">
+                            <input type="hidden" data-meniga="tId" value="905524303" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:98:tId"> <input type="hidden" data-meniga="catId" value="112" name="umsatzePanel:transactionsPanel:transactionsTablePanel:listContainer:transactions:98:catId">
+                            <!--  <div class="meniga">
+										<div class="content">
+											<div data-meniga="expenseOverTime"></div>
+											<div class="clear"></div>
+										</div>
+									</div>-->
+                            <div id="link-01" class="link-01">
+
+                            </div>
+                        </div>
+                    </td>
+                    <td class="expander_details_column_6" style="width: 0%"></td>
+                    <td class="expander_details_column_7 dateGroupCol6"><a href="./transactions?1-IResourceListener-umsatzePanel-transactionsPanel-transactionsTablePanel-listContainer-transactions-98-transactionPrintPdf&amp;pk" class="btn b-fb-01  show-tooltip ico-pdf pdfButton pfmPdfButton" title="PDF herunterladen">pdf</a></td>
+                    <td class="expander_details_column_8" style="width: 0%"></td>
+                    <td class="expander_border_padding dateGroupCol8"></td>
+
+                </tr>
+                </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
