@@ -20,5 +20,5 @@ This program uses an HTML input from the Commerzbank financial transaction overv
 
 * Open the input.xml file in this project and replace the sample content by pasting the HTML from the clipboard. Save input.xml and run the main method in XMLTransformer.kt. 
 
-* This will update the transactions.ts file, which you will need in the project "bank-account" to evaluate / aggregate the transactions. 
+* This will update the transactions.ts file, which you will need in the project [account-app](https://github.com/tomreineke/account-app) to evaluate / aggregate the transactions. 
 
