@@ -24,7 +24,7 @@ fun main() {
     val validXmlLines = raw.readLines().asSequence().map {
         it.replace("<br>", "<br/>")
             .replace("&nbsp;", "")
-            .replace("<input.*\">".toRegex(), "")
+            .replace("""<input.*">""".toRegex(), "")
     }
 
     // convert input.xml to valid XML
@@ -42,7 +42,7 @@ fun main() {
                 tmpFile
             ) // after conversion remove superfluous whitespaces and a XML tag => we want nice typescript file
                 .replace("<?xml version=\"1.0\" encoding=\"UTF-8\"?>", "")
-                .replace("\\n|\\r|\\t|\\v".toRegex(), "")
+                .replace("""\n|\r|\t|\v""".toRegex(), "")
                 .replace("( ){2,}".toRegex(), " ")
         )
     }
