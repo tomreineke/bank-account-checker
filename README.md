@@ -1,9 +1,9 @@
 # General
 
-This program uses an HTML input from the Commerzbank, Postbank and Sparkasse financial transaction overview to create a typescript file that contains all the transactions in Json format. For processing Commerzbank transactions, use the master branch. For processing Postbank and Sparkasse, use the respective branches. This file can then be processed by the related project [account-app](https://github.com/tomreineke/account-app), which will group the transactions by its source, so that the user sees how much money in total he received from / sent to a client.
+This program uses an HTML input from the Commerzbank, Postbank or Sparkasse financial transaction overview to create a typescript file that contains all the transactions in Json format. For processing Commerzbank transactions, use the master branch. For processing Postbank and Sparkasse, use the respective branches. This file can then be processed by the related project [account-app](https://github.com/tomreineke/account-app), which will group the transactions by its source, so that the user sees how much money in total he received from / sent to a client.
 
 # Usage
-
+The usage is explained with the help of a Commerzbank example. For Postbank and Sparkasse proceed analoguously.
 * Login to your Commerzbank account with Chrome or Firefox and list your financial transactions for a certain time interval. 
 
 * Scroll down to the very bottom of the page to make sure all the transactions for the relevant interval are loaded. Then go up again and right-click on the very first entry as shown in the following picture:
