@@ -1,6 +1,6 @@
 # General
 
-This program uses an HTML input from the Commerzbank, Postbank and Sparkasse financial transaction overview to create a typescript file that contains all the transactions in Json format. For processing Commerzbank transactions, use the master branch. For processing Postbank and Sparkasse, use the respective branches. This file can then be processed by the related project [account-app](https://github.com/tomreineke/account-app), which will group the transactions by its source, so that the user sees how much money in total he received from / sent to a client.
+This program uses an HTML input from the Commerzbank, Postbank and Sparkasse financial transaction overview to create a typescript file that contains all the transactions in Json format. This file can then be processed by the related project [account-app](https://github.com/tomreineke/account-app), which will group the transactions by its source, so that the user sees how much money in total he received from / sent to a client.
 
 # Usage
 
@@ -18,7 +18,12 @@ This program uses an HTML input from the Commerzbank, Postbank and Sparkasse fin
 
   <img src="https://github.com/tomreineke/bank-account-checker/blob/master/src/resources/images/copy_table.png" style="zoom:50%;" />
 
-* Open the input.xml file in this project and replace the sample content by pasting the HTML from the clipboard. Save input.xml and run the main method in XMLTransformer.kt. 
+* Open the input.xml file in this project and replace the sample content by pasting the HTML from the clipboard. Save input.xml and run the main method in XMLTransformer.kt with one of the following parameters:
+```
+-c: for Commerzbank
+-p: for Postbank
+-s: for Sparkasse 
+```
 
 * This will update the transactions.ts file, which you will need in the project [account-app](https://github.com/tomreineke/account-app) to evaluate / aggregate the transactions. 
 
